@@ -18,8 +18,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
-                    "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574"
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76"
                 } 
             ]
         },
@@ -29,8 +29,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kiriki-21.12.3.tar.xz",
-                    "sha256": "400d7b606e19af0f5f4d9a8677d40dead265011110c59f466d6c592ce5077561"
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kiriki-22.04.0.tar.xz",
+                    "sha256": "280c73854aac4191245e5b336dc07ac9a9414898dfd2cd4b0824e5a30f8f3d10"
                 },
                 {
                     "type": "patch",
