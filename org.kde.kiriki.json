@@ -19,7 +19,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
-                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76"
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
+                    }
                 } 
             ]
         },
@@ -30,7 +36,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/22.04.0/src/kiriki-22.04.0.tar.xz",
-                    "sha256": "280c73854aac4191245e5b336dc07ac9a9414898dfd2cd4b0824e5a30f8f3d10"
+                    "sha256": "280c73854aac4191245e5b336dc07ac9a9414898dfd2cd4b0824e5a30f8f3d10",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kiriki-$version.tar.xz"
+                    }
                 },
                 {
                     "type": "patch",
