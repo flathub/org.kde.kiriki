@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/kiriki-22.04.2.tar.xz",
-                    "sha256": "a1940badacd0a1d2c48197fcaa49a772560f50db7ef6abf8039c7685c4d0ae71",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/kiriki-22.04.3.tar.xz",
+                    "sha256": "36bf7ecccdd57cbf2601160733216a7bd9a6a04a1c7fc9e8ed9b93c9242454c6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
