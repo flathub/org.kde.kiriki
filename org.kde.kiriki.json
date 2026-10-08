@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/libkdegames-26.08.1.tar.xz",
-                    "sha256": "5644fb0ffc9074465fda0d533e5cf5cd663197fddfafa3e749468eeba58640cb",
+                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/libkdegames-26.08.2.tar.xz",
+                    "sha256": "64f5c1a0c79833057ff23fa246a93873ad65730c825c2ba46296741bc079d3ae",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/kiriki-26.08.1.tar.xz",
-                    "sha256": "e092a3035e11a35443c5687436b4e32d11f01a320f23262ff61d3d8c98fafe74",
+                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/kiriki-26.08.2.tar.xz",
+                    "sha256": "00028717af2dbcbda6ed3d9558aa1e013d811a5c96bcc2d0a681465df1602c1b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
